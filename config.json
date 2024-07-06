@@ -58,6 +58,15 @@
       "type": "text",
       "action": "add",
       "args": {
+        "name": "fastly",
+        "uri": "https://github.com/Loyalsoldier/geoip/raw/release/text/cloudfront.txt",
+        "wantedList": ["cloudfront"]
+      }
+    },
+    {
+      "type": "text",
+      "action": "add",
+      "args": {
         "name": "telegram",
         "uri": "https://github.com/Loyalsoldier/geoip/raw/release/text/telegram.txt",
         "wantedList": ["telegram"]
