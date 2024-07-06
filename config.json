@@ -58,7 +58,7 @@
       "type": "text",
       "action": "add",
       "args": {
-        "name": "fastly",
+        "name": "cloudfront",
         "uri": "https://github.com/Loyalsoldier/geoip/raw/release/text/cloudfront.txt",
         "wantedList": ["cloudfront"]
       }
