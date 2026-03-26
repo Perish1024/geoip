@@ -5,7 +5,7 @@
       "action": "add",
       "args": {
         "name": "cn",
-        "uri": "https://raw.githubusercontent.com/pmkol/easymosdns/refs/heads/rules/china_ip_list.txt",
+        "uri": "https://github.com/pmkol/easymosdns/raw/refs/heads/rules/china_ip_list.txt",
         "wantedList": ["cn"]
       }
     },
