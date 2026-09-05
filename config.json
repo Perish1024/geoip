@@ -5,7 +5,7 @@
       "action": "add",
       "args": {
         "name": "cn",
-        "uri": "https://github.com/misakaio/chnroutes2/raw/refs/heads/master/chnroutes.txt",
+        "uri": "https://github.com/v2fly/geoip/raw/refs/heads/release/text/cn.txt",
         "wantedList": ["cn"]
       }
     },
@@ -14,7 +14,7 @@
       "action": "add",
       "args": {
         "name": "private",
-        "uri": "https://github.com/Loyalsoldier/geoip/raw/release/text/private.txt",
+        "uri": "https://github.com/v2fly/geoip/raw/refs/heads/release/text/private.txt",
         "wantedList": ["private"]
       }
     },
